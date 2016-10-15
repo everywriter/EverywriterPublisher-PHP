@@ -12,7 +12,7 @@ Everywriter is a great writing tool for authors,scripts and ebook developer.this
 * Author can publish book to your application and update everywhere,everytime.
 
 # Documents
-* [chinese developer](http://www.1xiezuo.com/deveoper) [world developer] [Everywriter](http://www.ciiat.com/deveoper)
+* [chinese developer](http://www.1xiezuo.com/deveoper) , [world developer](http://www.ciiat.com/deveoper)
 
 
 
